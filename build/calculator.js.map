@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/calculator.js"],"names":["Calculator","num1","num2"],"mappings":";;;;;;;;;;;;;IAAqBA,U;;;;;;;wBAEbC,I,EAAMC,I,EAAM;AAEZ,aAAOD,IAAI,GAAGC,IAAd;AACH","sourcesContent":["export default class Calculator {\n\n    add(num1, num2) {\n\n        return num1 + num2;\n    }\n}\n"],"file":"calculator.js"}
